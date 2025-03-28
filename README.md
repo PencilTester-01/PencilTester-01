@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Revolutionizing Cybersecurity Through Automation & Efficiency
+
+
 <!--
 **PencilTester-01/PencilTester-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
